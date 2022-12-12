@@ -1,0 +1,10 @@
+.layout{
+   height: 100vh; 
+   padding-top: 60px ;
+}
+
+.container{
+   height: 100vh;
+   margin: 0 auto;
+   width: 80%;
+}
